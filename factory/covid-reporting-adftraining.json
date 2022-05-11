@@ -1,0 +1,9 @@
+{
+	"name": "covid-reporting-adftraining",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a0d30dc4-2d85-440d-8ecc-b06e2f1bcb25",
+		"tenantId": "76e92d6b-bd3f-4ccc-9cb6-6123bc195f97"
+	}
+}
